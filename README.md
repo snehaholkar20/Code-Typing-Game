@@ -380,14 +380,7 @@ copies or substantial portions of the Software.
 
 ---
 
-## 📞 Support & Contact
 
-- **Issues**: Report bugs on GitHub
-- **Email**: support@codetype.com
-- **Twitter**: [@CodeTypeGame](https://twitter.com)
-- **Discord**: Join our community server
-
----
 
 ## 🙏 Acknowledgments
 
